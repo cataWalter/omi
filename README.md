@@ -1,4 +1,4 @@
-# Omi - Give and Receive Freely (Free Tier Edition)
+# Omi
 
 ![Omi Logo](https://placehold.co/600x300/A8D5BA/333333?text=Omi)
 
